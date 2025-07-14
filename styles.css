@@ -1,0 +1,39 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fefefe;
+  color: #333;
+}
+
+header {
+  background: linear-gradient(to right, #ff9dcf, #a2c9f6);
+  padding: 2rem;
+  text-align: center;
+  color: white;
+}
+
+.año {
+  margin: 2rem;
+}
+
+.semestre {
+  border-radius: 10px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 0 10px #ccc;
+}
+
+.rosado {
+  background-color: #ffe3f3;
+  border-left: 6px solid #ff70b8;
+}
+
+.azul {
+  background-color: #e3f0ff;
+  border-left: 6px solid #70b4ff;
+}
+
+h2, h3 {
+  margin-top: 0;
+}
